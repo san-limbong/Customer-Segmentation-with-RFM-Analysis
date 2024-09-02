@@ -5,7 +5,6 @@ Dataset yang disediakan pada kursus latihan di Progate pada Study SQL yang membe
 
 ## Tujuan 
 Tujuan utama dari pengembangan proyek ini adalah untuk memfasilitasi pengembangan strategi peningkatan kualitas penjualan melalui analisa. Dengan memanfaatkan Analisis RFM (Recency, Frequency, Monetary), bisnis dapat memperoleh wawasan yang lebih mendalam tentang perilaku dan preferensi pelanggan.
-Pertanyaan Utama:
 
 ## Pertanyaan Analisis:
 1. Bagaimana angka total untuk pendapatan (revenue), laba, dan persentase laba website pembelanjaan?
